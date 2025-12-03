@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ノーダウト",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-03T04:18:31.653860Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ノーダウト",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/01_ノーダウト_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ノーダウト",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/02_ノーダウト_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ノーダウト",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/03_ノーダウト_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ノーダウト - No Doubt",
+      "artist": "Official Hige Dandism",
+      "has_synced": true,
+      "path": "select/04_ノーダウト_-_No_Doubt_Official_Hige_Dandism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Official髭男dism - ノーダウト［Official Video］",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/05_Official髭男dism_-_ノーダウト[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ノーダウト",
+      "artist": "Official鬍子男dism",
+      "has_synced": true,
+      "path": "select/06_ノーダウト_Official鬍子男dism.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ノーダウト",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/07_ノーダウト_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ノーダウト",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/08_ノーダウト_Official髭男dism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノーダウト",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_ノーダウト_Official髭男dism.txt"
+    }
+  ]
+}
